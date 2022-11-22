@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2012\Projects\LAB 1_Summer\LAB 1_Summer\bin\Debug\LAB 1_Summer.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\LAB 1_Summer\LAB 1_Summer\bin\Debug\LAB 1_Summer.exe
+c:\users\admin\documents\visual studio 2012\Projects\LAB 1_Summer\LAB 1_Summer\bin\Debug\LAB 1_Summer.pdb
+c:\users\admin\documents\visual studio 2012\Projects\LAB 1_Summer\LAB 1_Summer\obj\Debug\LAB 1_Summer.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\LAB 1_Summer\LAB 1_Summer\obj\Debug\LAB_1_Summer.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\LAB 1_Summer\LAB 1_Summer\obj\Debug\LAB_1_Summer.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\LAB 1_Summer\LAB 1_Summer\obj\Debug\LAB 1_Summer.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\LAB 1_Summer\LAB 1_Summer\obj\Debug\LAB 1_Summer.exe
+c:\users\admin\documents\visual studio 2012\Projects\LAB 1_Summer\LAB 1_Summer\obj\Debug\LAB 1_Summer.pdb
